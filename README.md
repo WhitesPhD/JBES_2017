@@ -11,7 +11,7 @@ Author: Bianchi Daniele, daniele.bianchi@qmul.ac.uk
 
 1. Data.mat: Contains the time-series data about both asset/portfolios and macroeconomic risk factors/instruments
 
-2. Main.m is the main matlab file reads the data and run the main algorithm
+2. Main.m is some of the main matlab file reads the data and run the main algorithm
 
 3. StepUnique.m is the matlab function running the Gibbs sampler
 
